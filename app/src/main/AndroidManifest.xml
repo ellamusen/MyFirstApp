@@ -19,3 +19,7 @@
     </application>
 
 </manifest>
+
+<!--
+The manifest file describes the fundamental characteristics of the app and defines each of its components.
+-->
